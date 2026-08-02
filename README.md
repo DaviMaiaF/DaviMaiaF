@@ -69,7 +69,3 @@ Graduating **December 2026**. Open to Junior Developer and Data Analyst roles.
 **Languages:** Portuguese (native) · English (fluent — completed high school in Mississippi, USA) · Spanish (intermediate)
 
 ---
-
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMaiaF&layout=compact&theme=dark&hide_border=true" alt="Top languages">
-</div>
